@@ -1,0 +1,111 @@
+@font-face {
+    font-family: Aqum;
+    src: url(Aqum.ttf);
+}
+
+a {
+    font-family: Aqum;
+    text-decoration: none;
+}
+
+A {
+    font-family: Aqum;
+    color: chartreuse;
+    font-size: small;
+    text-decoration: none;
+}
+
+A:visited {
+    font-family: Aqum;
+    color: chartreuse;
+    font-size: small;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: black;
+    color: chartreuse;
+    font-family: Aqum;
+    font-size: small;
+}
+
+div {
+    color: chartreuse;
+    font-family: Aqum;
+    font-size: small;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 9px;
+    overflow: hidden;
+    border-right: 2px solid black;
+
+}
+
+tr.cht {
+    background: white;
+    font-family: Aqum;
+    font-size: small;
+    color: black;
+}
+
+tr.ncht {
+    background: gray;
+    font-family: Aqum;
+    font-size: small;
+    color: black;
+
+}
+
+td,
+th {
+    padding: 2px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+
+nav.dec {
+    display: inline-block;
+    text-align: center;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input.xz {
+    border-radius: 15px;
+}
+
+textarea.cls {
+    border-radius: 10px;
+}
+
+footer#dd {
+    padding-top: 120px;
+}
+
+.tt {
+    width: 960px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
+
+.ft {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
